@@ -7,9 +7,11 @@
 <p align="center">
   <a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=org_profile">dreamworkhq.com</a>
   ·
-  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=org_profile">Hiring research</a>
+  <a href="https://www.dreamworkhq.com/blog?utm_source=github&utm_medium=org_profile">Blog</a>
   ·
-  <a href="https://www.dreamworkhq.com/research/ai?utm_source=github&utm_medium=org_profile">AI Labor Index</a>
+  <a href="https://www.dreamworkhq.com/how-to?utm_source=github&utm_medium=org_profile">How-to guides</a>
+  ·
+  <a href="https://www.dreamworkhq.com/research?utm_source=github&utm_medium=org_profile">Hiring research</a>
   ·
   <a href="https://www.npmjs.com/package/@dreamworkhq/mcp">MCP server</a>
 </p>

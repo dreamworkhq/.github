@@ -1,7 +1,7 @@
-<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=org_profile"><img src="./banner.svg" alt="Dreamwork. 1.9M+ live jobs, crawled daily. Matched to your resume. Applied for you." width="100%"></a>
+<a href="https://www.dreamworkhq.com/?utm_source=github&utm_medium=org_profile"><img src="./banner.svg" alt="Dreamwork. 2M+ live jobs, crawled daily. Matched to your resume. Applied for you." width="100%"></a>
 
 <p align="center">
-  Dreamwork is an autonomous job-application agent. It crawls 1.9M+ live listings directly from company career pages, matches them against your resume, and can tailor and submit applications for you.
+  Dreamwork is an autonomous job-application agent. It crawls 2M+ live listings directly from company career pages, matches them against your resume, and can tailor and submit applications for you.
 </p>
 
 <p align="center">
